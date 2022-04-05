@@ -1,8 +1,8 @@
-# Spring-Boot-API-REST
+# Spring Boot API REST
 
 Spring Boot API REST
 
-## Built With
+## API REST Built With
 
 * [Java](https://www.java.com/)
 * [Maven](https://maven.apache.org/)
